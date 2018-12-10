@@ -1,0 +1,21 @@
+C:\我的文档\全国测绘技能大赛\测绘技能大赛_学院\系统开发板块\CrimeDataAnalysis\FileHelperLib\bin\x64\Release\FileHelperLib.dll
+C:\我的文档\全国测绘技能大赛\测绘技能大赛_学院\系统开发板块\CrimeDataAnalysis\FileHelperLib\bin\x64\Release\FileHelperLib.pdb
+C:\我的文档\全国测绘技能大赛\测绘技能大赛_学院\系统开发板块\CrimeDataAnalysis\FileHelperLib\bin\x64\Release\CoorTranLib.dll
+C:\我的文档\全国测绘技能大赛\测绘技能大赛_学院\系统开发板块\CrimeDataAnalysis\FileHelperLib\bin\x64\Release\MySql.Data.dll
+C:\我的文档\全国测绘技能大赛\测绘技能大赛_学院\系统开发板块\CrimeDataAnalysis\FileHelperLib\bin\x64\Release\PointPatternLib.dll
+C:\我的文档\全国测绘技能大赛\测绘技能大赛_学院\系统开发板块\CrimeDataAnalysis\FileHelperLib\bin\x64\Release\CoorTranLib.pdb
+C:\我的文档\全国测绘技能大赛\测绘技能大赛_学院\系统开发板块\CrimeDataAnalysis\FileHelperLib\bin\x64\Release\PointPatternLib.pdb
+C:\我的文档\全国测绘技能大赛\测绘技能大赛_学院\系统开发板块\CrimeDataAnalysis\FileHelperLib\bin\x64\Release\MySql.Data.xml
+C:\我的文档\全国测绘技能大赛\测绘技能大赛_学院\系统开发板块\CrimeDataAnalysis\FileHelperLib\obj\x64\Release\FileHelperLib.csprojResolveAssemblyReference.cache
+C:\我的文档\全国测绘技能大赛\测绘技能大赛_学院\系统开发板块\CrimeDataAnalysis\FileHelperLib\obj\x64\Release\FileHelperLib.dll
+C:\我的文档\全国测绘技能大赛\测绘技能大赛_学院\系统开发板块\CrimeDataAnalysis\FileHelperLib\obj\x64\Release\FileHelperLib.pdb
+E:\原电脑F盘文件（学习科研）\18-华测杯犯罪预测\应用软件组+重案六组+CAP(CrimeAnalysis&Prediction)+2018年8月20日\2、作品源代码\2.2 code\CrimeDataAnalysis\FileHelperLib\bin\x64\Release\FileHelperLib.dll
+E:\原电脑F盘文件（学习科研）\18-华测杯犯罪预测\应用软件组+重案六组+CAP(CrimeAnalysis&Prediction)+2018年8月20日\2、作品源代码\2.2 code\CrimeDataAnalysis\FileHelperLib\bin\x64\Release\FileHelperLib.pdb
+E:\原电脑F盘文件（学习科研）\18-华测杯犯罪预测\应用软件组+重案六组+CAP(CrimeAnalysis&Prediction)+2018年8月20日\2、作品源代码\2.2 code\CrimeDataAnalysis\FileHelperLib\bin\x64\Release\CoorTranLib.dll
+E:\原电脑F盘文件（学习科研）\18-华测杯犯罪预测\应用软件组+重案六组+CAP(CrimeAnalysis&Prediction)+2018年8月20日\2、作品源代码\2.2 code\CrimeDataAnalysis\FileHelperLib\bin\x64\Release\PointPatternLib.dll
+E:\原电脑F盘文件（学习科研）\18-华测杯犯罪预测\应用软件组+重案六组+CAP(CrimeAnalysis&Prediction)+2018年8月20日\2、作品源代码\2.2 code\CrimeDataAnalysis\FileHelperLib\bin\x64\Release\CoorTranLib.pdb
+E:\原电脑F盘文件（学习科研）\18-华测杯犯罪预测\应用软件组+重案六组+CAP(CrimeAnalysis&Prediction)+2018年8月20日\2、作品源代码\2.2 code\CrimeDataAnalysis\FileHelperLib\bin\x64\Release\PointPatternLib.pdb
+E:\原电脑F盘文件（学习科研）\18-华测杯犯罪预测\应用软件组+重案六组+CAP(CrimeAnalysis&Prediction)+2018年8月20日\2、作品源代码\2.2 code\CrimeDataAnalysis\FileHelperLib\bin\x64\Release\MySql.Data.xml
+E:\原电脑F盘文件（学习科研）\18-华测杯犯罪预测\应用软件组+重案六组+CAP(CrimeAnalysis&Prediction)+2018年8月20日\2、作品源代码\2.2 code\CrimeDataAnalysis\FileHelperLib\obj\x64\Release\FileHelperLib.csprojResolveAssemblyReference.cache
+E:\原电脑F盘文件（学习科研）\18-华测杯犯罪预测\应用软件组+重案六组+CAP(CrimeAnalysis&Prediction)+2018年8月20日\2、作品源代码\2.2 code\CrimeDataAnalysis\FileHelperLib\obj\x64\Release\FileHelperLib.dll
+E:\原电脑F盘文件（学习科研）\18-华测杯犯罪预测\应用软件组+重案六组+CAP(CrimeAnalysis&Prediction)+2018年8月20日\2、作品源代码\2.2 code\CrimeDataAnalysis\FileHelperLib\obj\x64\Release\FileHelperLib.pdb

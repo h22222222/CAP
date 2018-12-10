@@ -1,0 +1,13 @@
+C:\Users\11294\Desktop\RipleyK\RipleyK\bin\Debug\RipleyK.exe.config
+C:\Users\11294\Desktop\RipleyK\RipleyK\bin\Debug\RipleyK.exe
+C:\Users\11294\Desktop\RipleyK\RipleyK\bin\Debug\RipleyK.pdb
+C:\Users\11294\Desktop\RipleyK\RipleyK\bin\Debug\RipleyKLib.dll
+C:\Users\11294\Desktop\RipleyK\RipleyK\bin\Debug\RipleyKLib.pdb
+C:\Users\11294\Desktop\RipleyK\RipleyK\obj\Debug\RipleyK.csprojResolveAssemblyReference.cache
+C:\Users\11294\Desktop\RipleyK\RipleyK\obj\Debug\RipleyK.MainForm.resources
+C:\Users\11294\Desktop\RipleyK\RipleyK\obj\Debug\RipleyK.Properties.Resources.resources
+C:\Users\11294\Desktop\RipleyK\RipleyK\obj\Debug\RipleyK.csproj.GenerateResource.Cache
+C:\Users\11294\Desktop\RipleyK\RipleyK\obj\Debug\RipleyK.exe
+C:\Users\11294\Desktop\RipleyK\RipleyK\obj\Debug\RipleyK.pdb
+C:\Users\11294\Desktop\RipleyK\RipleyK\bin\Debug\MySql.Data.dll
+C:\Users\11294\Desktop\RipleyK\RipleyK\bin\Debug\MySql.Data.xml
